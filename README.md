@@ -1,1 +1,4 @@
-# CS-6923
+# CS-6923 ML FINAL PROJECT
+According to studies, investors suffer from behavioral biases and are poor assessors of their own risk perception, especially during stressful markets. Furthermore, because these questionnaires must be filled out by hand by investors, they preclude the entire investment management process from being automated.
+The archival documents in this case study are taken from the Federal Reserve Board's Survey of Consumer Finances (SCF). The poll comprises responses from the same group of people in 2007 (pre-crisis) and 2009 (post-crisis) on household demographics, net worth, financial, and nonfinancial assets (postcrisis). This enables us to evaluate how each household's allocation changed during global financial crisis of 2008.
+The overarching goal is to show how machine learning may be used to automate the manual phases in the portfolio management process.
